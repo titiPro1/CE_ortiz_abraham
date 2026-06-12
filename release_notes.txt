@@ -1,1 +1,2 @@
 // release v1.1 preparada
+// fix: grafico vacio cuando empleado sin tareas
